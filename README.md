@@ -1,7 +1,7 @@
 # super-tribble
 my test project
 
-json markdon test
+json markdown test
 ```json
 {
   "firstName": "John",
