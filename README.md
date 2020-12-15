@@ -11,4 +11,4 @@ json markdown test
 ```
 
 image test
-![XC Lauren](/images/Laurenregionals2017.jpg)
+![XC Lauren](/images/LaurenRegionals2017.jpg)
