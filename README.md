@@ -9,3 +9,6 @@ json markdown test
   "age": 25
 }
 ```
+
+image test
+![XC Lauren](/images/Laurenregionals2017.jpg)
