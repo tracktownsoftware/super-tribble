@@ -1,7 +1,7 @@
 # super-tribble
 my test project
 
-json markdown test
+json code markdown
 ```json
 {
   "firstName": "John",
@@ -10,5 +10,10 @@ json markdown test
 }
 ```
 
+python code markdown
+```python
+name = 'Chris'
+print 'Hi my name is ' + name
+```
 image test
 ![XC Lauren](/images/LaurenRegionals2017.jpg)
