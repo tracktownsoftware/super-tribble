@@ -13,13 +13,13 @@
 }
 ```
 
-python code markdown
+#### python code markdown
 ```python
 name = 'Chris'
 print 'Hi my name is ' + name
 ```
 
-c# code markdown
+#### c# code markdown
 ```c#
 namespace HelloWorld
 {
@@ -32,13 +32,13 @@ namespace HelloWorld
 }
 ```
 
-Link test
+#### Link test
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-Link with Title test
+#### Link with Title test
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
-image test
+#### image test
 ![XC Lauren](/images/LaurenRegionals2017.jpg)
