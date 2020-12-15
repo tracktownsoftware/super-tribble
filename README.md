@@ -36,7 +36,7 @@ Link test
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 Link with Title test
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy"
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
 image test
 ![XC Lauren](/images/LaurenRegionals2017.jpg)
