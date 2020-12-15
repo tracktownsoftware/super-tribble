@@ -32,7 +32,7 @@ namespace HelloWorld
 }
 ```
 
-#### Link test
+#### Link test (hover over link)
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
