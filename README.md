@@ -18,5 +18,19 @@ python code markdown
 name = 'Chris'
 print 'Hi my name is ' + name
 ```
+```
+c# code markdown
+```c#
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
 image test
 ![XC Lauren](/images/LaurenRegionals2017.jpg)
