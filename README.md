@@ -18,7 +18,7 @@ python code markdown
 name = 'Chris'
 print 'Hi my name is ' + name
 ```
-```
+
 c# code markdown
 ```c#
 namespace HelloWorld
